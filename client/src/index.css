@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@media (max-height: 667px) {
+  h1 {
+    font-size: 3rem;
+  }
+}
